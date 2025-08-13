@@ -1,8 +1,7 @@
 # YouTube Media Control using Gesture Classification
 
 Gesture Classification trained with LSTM (Long Short Term Memory)
-Using Mediaipipe Handpose Detection
-+ PyAutoGUI
+Using Mediaipipe Handpose Detection, PyAutoGUI
 
 ## Flow
 Hands gesture --> camera --> Mediapipe hands --> LSTM --> Predict Gesture --> PyAutoGUI --> Youtube
